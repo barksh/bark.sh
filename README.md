@@ -1,2 +1,0 @@
-# bark.sh
-:dog: Website
